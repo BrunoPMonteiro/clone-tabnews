@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Alice Padoanni Monteiro, te amo muito minha filha!</h1>;
+  return <h1>Ana Paula e Alice, eu amo muito vocês!</h1>;
 }
 
 export default Home;
